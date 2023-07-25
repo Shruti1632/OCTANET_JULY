@@ -1,0 +1,187 @@
+body{
+    background-image: url('movieticketbooking.png');
+    height: 100%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-attachment: fixed;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.welcomeTxt{
+    position: sticky;
+    margin-top: 100px;
+    margin-left: 150px;
+    padding-top: 15px;
+    height: 40%;
+    width: 80%;
+    text-align: center;
+    background-color: rgba(8, 9, 98, 0.75);
+    color: #FFF7D4;
+}
+
+.heading{
+    position: sticky;
+    height: 10%;
+    width: 100%;
+    margin-top: -25px;
+    padding-top: 1%;
+    background-color: rgba(8, 9, 98, 0.75);
+    color: #FFF7D4;
+}
+
+.info{
+    font-size: larger;
+}
+
+.formInfo{
+    position: sticky;
+    margin-top: 100px;
+    margin-left: 300px;
+    padding-top: 15px;
+    height: 110%;
+    width: 60%;
+    text-align: center;
+    background-color: rgba(8, 9, 98, 0.75);
+    color: #FFF7D4;
+    font-size: larger;
+}
+
+.uil{
+    font-size: 30px;
+}
+
+.para{
+    position: sticky;
+    margin-top: 18px;
+    margin-left: -350px;
+    padding-top: 5px;
+}
+
+.loginA{
+    color: #FFF7D4;
+}
+
+.loginA:hover{
+    font-size: 120%;
+}
+
+input{
+    width: 50%;
+    height: 40px;
+    margin-bottom: 10px;
+    border: none;
+    outline: none;
+    font-size: 17px;
+}
+
+input[type="text"],input[type="email"],input[type="date"]{
+    background: transparent;
+    border-bottom: 1px solid #FFF7D4;
+    color: #FFF7D4;
+}
+
+input[type="submit"]{
+    background-color: #FFF7D4;
+    color: rgba(8, 9, 98, 0.75);
+    cursor: pointer;
+}
+
+input[type="submit"]:hover{
+    font-size: 150%;
+    
+}
+
+::placeholder{
+    color: #FFF7D4;
+}
+
+h2{
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.footers{
+    height: 55%;
+    width: 20%;
+    position: sticky;
+    margin-top : 90;
+    margin-left: 550;
+    margin-bottom: 70px;
+    padding-left: 80px;
+    padding-top: 10px;
+    border-radius: 1%;
+    background-color: rgba(8, 9, 98, 0.75);
+    color: #FFF7D4;
+    font-size: large;
+}
+
+#buttons{
+    color:#FFF7D4;
+    border: 0px none;
+    font-size: x-large;
+    cursor: pointer;
+    background: transparent;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.home{
+    position: sticky;
+    margin-top: -60px;
+    margin-left: 1000px;
+}
+
+.about{
+    position: sticky;
+    margin-top: -60px;
+    margin-left: 1110px;
+}
+
+.services{
+    position: sticky;
+    margin-left: 1220px;
+    margin-top: -60px;
+}
+
+.feedback{
+    position: sticky;
+    margin-left: 1350px;
+    margin-top: -60px;
+}
+
+#buttons:hover{
+    font-size: 175%;
+    text-decoration: underline;
+}
+
+.trouble{
+    background-color: rgba(8, 9, 98, 0.75);
+    height: 5%;
+    width: 100%;
+    font-family: 'Varela Round', sans-serif;
+}
+
+#Tbutton{
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    color:#FFF7D4;
+    font-size: x-large;
+    position: sticky;
+    margin-left: 1250px;
+    margin-top: 0px;
+}
+
+#Tbutton:hover{
+    font-size: 160%;
+    text-decoration: underline;
+}
+
+.Follow{
+    cursor: pointer;
+    color: #FFF7D4;
+}
+
+.Follow:hover{
+    font-size: 125%;
+}
