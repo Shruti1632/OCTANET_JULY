@@ -1,6 +1,6 @@
 # 🌐 OCTANET_JULY Projects
 
-This repository showcases the web development tasks completed during the **OCTANET July Internship Program**. The goal of these tasks was to strengthen front-end development skills using core web technologies — HTML, CSS, and JavaScript. Each task reflects a different aspect of web design and functionality, from building static pages to creating interactive applications.
+This repository showcases the web development tasks completed during the **OCTANET July 2024 Internship Program**. The goal of these tasks was to strengthen front-end development skills using core web technologies — HTML, CSS, and JavaScript. Each task reflects a different aspect of web design and functionality, from building static pages to creating interactive applications.
 
 ---
 
